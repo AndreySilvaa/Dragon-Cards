@@ -1,23 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
 
+// Components
+import Game from './Components/Game';
+import Card from './Components/Card';
+import { dragons } from './data/dragons';
+
 function App() {
+  /*
+  let luck = [{id:1}, {id:0}, {id: 4}, {id:7}, {id:9}]
+  let luckDragons = []
+
+  for(let i of luck){
+    for (let i2 of dragons) {
+      if(i.id === i2.id){
+        luckDragons.push(i2)
+      }
+    }
+  }
+
+  console.log(luckDragons)
+*/
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Dragon Cards</h1>
+
+      <Game/>
+      {/*dragons.map((dragon) => (
+        <Card key={dragon.id} name={dragon.name} element={dragon.element} hp={dragon.hp_score} image={dragon.image} atk_fis={dragon.atk_fis} atk_ele={dragon.atk_ele} vel={dragon.vel} powers={dragon.powers} def={dragon.def} weak={dragon.weak}/>
+      ))*/}
+      
     </div>
   );
 }

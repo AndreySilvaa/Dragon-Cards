@@ -1,0 +1,30 @@
+OK 1- Criar um novo componente chamado game
+
+    + Nesse componente, vamos criar dois botões, um chamado "ATAQUE" e outro "DEFESA"
+
+    + Bem mais embaixo vamos criar um container que erá ter 5 formatos de cartas vázias, que serão preenchidos depois 
+
+OK 2- Vamos criar uma nova estrutura de dados com os ids dos dragões repetidos, para que quando utilizarmos o método random os dragões
+    mais comuns sejam os mais escolhidos
+
+
+OK 3 - Crie um loop para substituir os ids sortidos pelos dragões
+
+    + Esse loop deve ser feito ao clicar em um dos botões OK
+
+
+4 - Criar uma janela modal para exibar a carta selecionada
+
+    + Crie uma div que consuma a grande parte da tela
+
+    + Essa div quando clicada no X deve ter o display none
+
+    + Quando clicada em algum cartão seu display se torna flex
+
+    ? Elabore uma forma de passar as informações do card clicado para o modal
+
+    1 - No cardModal, pegue o dragão que corresponde ao id passado
+
+    2 - Importe o componente Card e passe o dragão, mas não passe como prop a função modal
+
+
