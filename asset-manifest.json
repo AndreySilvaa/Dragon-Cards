@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.773bd134.css",
+    "main.js": "/static/js/main.b6f1a355.js",
+    "static/media/8_darkness_dragon.png": "/static/media/8_darkness_dragon.8eb099d1458f4a386af5.png",
+    "static/media/5_war_dragon.png": "/static/media/5_war_dragon.75fe98909b6ac52ec3e3.png",
+    "static/media/1_Fire_Dragon.png": "/static/media/1_Fire_Dragon.075c35bf2dc19849b8c3.png",
+    "static/media/2_Ice_dragon.png": "/static/media/2_Ice_dragon.a555ea0e6c6c4204016c.png",
+    "static/media/3_metal_dragon.png": "/static/media/3_metal_dragon.c1e8e375c0a82d485ad9.png",
+    "static/media/9_electric_dragon.png": "/static/media/9_electric_dragon.f24007bdfc7ed6f745cc.png",
+    "static/media/6_wood_dragon.png": "/static/media/6_wood_dragon.5db349013d9cdfbaefbe.png",
+    "static/media/4_crystal_dragon.png": "/static/media/4_crystal_dragon.91ca5c55e13473a994ab.png",
+    "static/media/10_water_dragon.png": "/static/media/10_water_dragon.2f567bd5860b7a3ffd7b.png",
+    "static/media/7_ligth_dragon.png": "/static/media/7_ligth_dragon.d8dc8cabf8c014523360.png",
+    "static/media/0_Pure_dragon.png": "/static/media/0_Pure_dragon.0a9285775a09ba6cb37b.png",
+    "static/media/card-container-backgraund.jpg": "/static/media/card-container-backgraund.1116ce39f1b0910f871d.jpg",
+    "static/media/textura-dourada-luxuosa.jpg": "/static/media/textura-dourada-luxuosa.3ac1e0243fd406515aea.jpg",
+    "static/media/smoke_texture.png": "/static/media/smoke_texture.8a28f5b3e061931ed6cd.png",
+    "index.html": "/index.html",
+    "main.773bd134.css.map": "/static/css/main.773bd134.css.map",
+    "main.b6f1a355.js.map": "/static/js/main.b6f1a355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773bd134.css",
+    "static/js/main.b6f1a355.js"
+  ]
+}
