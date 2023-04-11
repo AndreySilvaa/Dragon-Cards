@@ -1,5 +1,4 @@
 import './App.css';
-import {BrowserRouter} from 'react-router-dom'
 
 // Components
 import Game from './Components/Game';
@@ -8,10 +7,8 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
-        <h1>Dragon Cards</h1>
-        <Game/>
-      </BrowserRouter>
+      <h1>Dragon Cards</h1>
+      <Game/>
     </div>
   );
 }
